@@ -10,4 +10,4 @@ Your final project is to create a web page that matches the example given here. 
 7. section - More About Me
 8. footer - The image from the footer can be found at my website: http://www.intro-webdesign.com/images/newlogo.png
 # Link
-<a href="" target="_blank">Final Project</a>
+<a href="https://lakshay9296.github.io/FinalProject/" target="_blank">Final Project</a>
